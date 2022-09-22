@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,6 +19,8 @@
   },
   "homepage": "https://github.com/CharlyGrsvd/OCR-Projet-4-La-Panthere#readme",
   "dependencies": {
-    "cwebp": "^2.0.5"
+    "cwebp": "^2.0.5",
+    "imagemin": "^8.0.1",
+    "imagemin-webp": "^7.0.0"
   }
 }
