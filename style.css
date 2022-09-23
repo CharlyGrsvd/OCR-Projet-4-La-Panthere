@@ -962,7 +962,7 @@ h4 {
         box-shadow: none;
     }
     .navbar-brand img {
-        max-height: 40px;
+        height: "40";
         width: auto;
     }
     .nav-invert .navbar-header {
