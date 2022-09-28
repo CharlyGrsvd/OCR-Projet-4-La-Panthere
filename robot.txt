@@ -1,0 +1,3 @@
+User-agent: *
+allow: https://charlygrsvd.github.io/OCR-Projet-4-La-Panthere/index.html
+allow: https://charlygrsvd.github.io/OCR-Projet-4-La-Panthere/contact.html
