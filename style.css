@@ -7,6 +7,10 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+footer{
+  line-height: 2;
+}
+
 a,
 button {
   transition: all 0.3s ease-in-out;
